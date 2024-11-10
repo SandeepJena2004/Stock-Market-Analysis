@@ -1,5 +1,5 @@
-For privacy concerns I have removed the API key
+Important Note About API Key:
 
-Just go to polygon.io and create your owm API key 
+For privacy and security reasons, the API key used to access the stock data API has been removed from this repository.
 
-Paste your API key at API_KEY in app.js
+To use the application, you will need to replace the API_KEY in the app.js file with your own Polygon.io API key. You can obtain a free or paid API key by signing up at Polygon.io.
